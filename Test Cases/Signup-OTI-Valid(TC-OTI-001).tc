@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TC-OTI-001</description>
+   <name>Signup-OTI-Valid(TC-OTI-001)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>996194ff-e4d5-46c4-afce-1159990c0a5f</testCaseGuid>
+   <variable>
+      <defaultValue>'pl250403@gmail.com'</defaultValue>
+      <description></description>
+      <id>86e954f6-dd59-4e8a-a393-878ece68279e</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>477929a9-d916-47d3-91aa-6a907ddebadf</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UpdateCompanyDetails-Invalid(TC-OTI-011)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6709c86f-1d72-4cbb-b342-306926378608</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SignupTest</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>4961bcc6-f0f3-40f9-b8a9-e120642f61cc</testSuiteGuid>
+   <testCaseLink>
+      <guid>e16395ea-5044-49c6-8415-f9ffabc2a56c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Signup-OTI-InvalidEmail(TC-OTI-003)</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4e3a0406-da90-48e8-a086-96c557ef82d0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Signup-OTI-InvalidPostCode(TC-OTI-003)</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fafce40f-0ab4-45e3-af2a-07aba173e92a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8187fb12-e415-4c77-88a2-19e6767f2787</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Signup-OTI-Valid(TC-OTI-001)</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>86e954f6-dd59-4e8a-a393-878ece68279e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>477929a9-d916-47d3-91aa-6a907ddebadf</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

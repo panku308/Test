@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login(TC-OTI-007)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7a3afb5-4efe-4709-b23c-782fc78876b6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2d863db2-6a10-445f-a544-f51b8189ef3b</id>
+      <masked>false</masked>
+      <name>x</name>
+   </variable>
+</TestCaseEntity>

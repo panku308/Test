@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Signup-OTI-InvalidEmail(TC-OTI-003)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a66f3c45-2c8d-4495-aaaa-e13ebb1ca234</testCaseGuid>
+</TestCaseEntity>

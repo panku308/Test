@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Signup-OTI-InvalidPostCode(TC-OTI-003)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3c3f0f1-f15c-4830-968d-036ad667189e</testCaseGuid>
+   <variable>
+      <defaultValue>'test@test.com'</defaultValue>
+      <description></description>
+      <id>fafce40f-0ab4-45e3-af2a-07aba173e92a</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>
